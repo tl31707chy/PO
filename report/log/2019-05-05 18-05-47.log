@@ -1,0 +1,25 @@
+2019-05-05 18:05:49,540 - root - log.py [log:40] - INFO - Start a new browser: Chrome, Spend 2.4589715003967285 seconds    
+2019-05-05 18:05:50,119 - root - log.py [log:40] - INFO - open the url  https://www.baidu.com    
+2019-05-05 18:05:50,120 - root - log.py [log:40] - INFO - ---------------Start to perform---------------    
+2019-05-05 18:05:51,249 - root - log.py [log:40] - INFO - Maximizing the Windows    
+2019-05-05 18:05:51,250 - root - log.py [log:40] - INFO - Is using -> “id” Positioning elements -> “kw”    
+2019-05-05 18:05:51,266 - root - log.py [log:40] - INFO - “id” -> “kw”,  Positioning success    
+2019-05-05 18:05:51,397 - root - log.py [log:40] - INFO - Is using -> “id” Positioning elements -> “su”    
+2019-05-05 18:05:51,413 - root - log.py [log:40] - INFO - “id” -> “su”,  Positioning success    
+2019-05-05 18:05:54,572 - root - log.py [log:46] - ERROR - The url is inconsistent with the title    
+2019-05-05 18:05:54,573 - root - log.py [log:40] - INFO - ---------------Perform the end---------------    
+2019-05-05 18:05:54,963 - root - log.py [log:40] - INFO - ---------------Start to perform---------------    
+2019-05-05 18:05:54,966 - root - log.py [log:40] - INFO - Maximizing the Windows    
+2019-05-05 18:05:54,966 - root - log.py [log:40] - INFO - Is using -> “id” Positioning elements -> “kw”    
+2019-05-05 18:05:54,975 - root - log.py [log:40] - INFO - “id” -> “kw”,  Positioning success    
+2019-05-05 18:05:55,050 - root - log.py [log:40] - INFO - Is using -> “id” Positioning elements -> “su”    
+2019-05-05 18:05:55,061 - root - log.py [log:40] - INFO - “id” -> “su”,  Positioning success    
+2019-05-05 18:05:55,122 - root - log.py [log:40] - INFO - ---------------Perform the end---------------    
+2019-05-05 18:05:55,124 - root - log.py [log:40] - INFO - ---------------Start to perform---------------    
+2019-05-05 18:05:55,130 - root - log.py [log:40] - INFO - Maximizing the Windows    
+2019-05-05 18:05:55,132 - root - log.py [log:40] - INFO - Is using -> “id” Positioning elements -> “kw”    
+2019-05-05 18:05:55,145 - root - log.py [log:40] - INFO - “id” -> “kw”,  Positioning success    
+2019-05-05 18:05:55,217 - root - log.py [log:40] - INFO - Is using -> “id” Positioning elements -> “su”    
+2019-05-05 18:05:55,227 - root - log.py [log:40] - INFO - “id” -> “su”,  Positioning success    
+2019-05-05 18:05:55,278 - root - log.py [log:40] - INFO - ---------------Perform the end---------------    
+2019-05-05 18:05:58,366 - root - log.py [log:40] - INFO - The browser si closesing    
